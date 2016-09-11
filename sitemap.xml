@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yuxinshi.com/tags/index.html</loc>
+    
+    <lastmod>2016-09-11T01:28:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yuxinshi.com/2016/09/10/HelloWorld/</loc>
     
     <lastmod>2016-09-11T01:14:27.000Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://yuxinshi.com/404.html</loc>
     
     <lastmod>2016-09-11T00:04:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yuxinshi.com/tags/index.html</loc>
-    
-    <lastmod>2016-09-11T00:02:54.000Z</lastmod>
     
   </url>
   
